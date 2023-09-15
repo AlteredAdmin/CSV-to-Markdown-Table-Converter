@@ -17,7 +17,7 @@ This simple script takes a CSV file and prints its contents in a Markdown table 
 3. Run the script using the command below:
 
 ```bash
-python script_name.py
+python CSVtoMarkdownTableConverter.py
 ```
 Replace `script_name.py` with the actual name of the script.
 
@@ -42,7 +42,10 @@ The output will look something like:
 ...
 ```
 
-## Contributing
+## Support the Developer
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+If you found this helpful, please consider:
+
+- **Buymeacoffee:** [Link](http://buymeacoffee.com/alteredadmin)
+
 
